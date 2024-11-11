@@ -15,6 +15,8 @@ Token bans? A piece of cake!
 Hardware bans? Consider it done!
 CFX bans? We've got you covered!
 
+https://streamable.com/fqrvhp
+
 **Supported Games:**
 
 Rust
